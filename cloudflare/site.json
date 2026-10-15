@@ -1,0 +1,8 @@
+{
+  "repo": "misty-step/the-farm-house-demo",
+  "source_commit": "374cb6ac7b81b83538c2e9bb4c779cc250efbcac",
+  "source_folder": ".",
+  "project_prefix": "the-farm-house-demo",
+  "before_url": "https://misty-step.github.io/the-farm-house-demo/",
+  "build_kind": "static"
+}
